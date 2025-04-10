@@ -26,3 +26,7 @@
     color: red;
     background-color: white;
 }
+
+.btn:hover {
+    background-color: #db9e30;
+}

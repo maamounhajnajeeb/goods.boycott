@@ -3,77 +3,104 @@
         {
             "image": "./images/lipton_tea.png",
             "en_brand_name": "Lipton",
-            "ar_brand_name": "شاي ليبتون"
+            "ar_brand_name": "شاي ليبتون",
+            "url": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         },
         {
             "image": "./images/snickers.jpg",
             "en_brand_name": "Snickers",
-            "ar_brand_name": "شوكولا سنيكرز"
+            "ar_brand_name": "شوكولا سنيكرز",
+            "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
         },
         {
             "image": "./images/quaker.jpg",
             "en_brand_name": "َQuaker",
-            "ar_brand_name": "شوكولا و منتجات كويكر"
+            "ar_brand_name": "شوكولا و منتجات كويكر",
+            "url": "https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         },
         {
             "image": "./images/nescafe.png",
             "en_brand_name": "Nescafe",
-            "ar_brand_name": "قهوة نسكافية بأشكالها المختلفة"
+            "ar_brand_name": "قهوة نسكافية بأشكالها المختلفة",
+            "url": "https://en.wikipedia.org/wiki/Osem_(company)"
         },
         {
             "image": "./images/knor.png",
             "en_brand_name": "Knorr",
-            "ar_brand_name": "شوربة و معكرونة كنور"
+            "ar_brand_name": "شوربة و معكرونة كنور",
+            "url": "https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/"
+        },
+        {
+            "image": "./images/maggi.png",
+            "en_brand_name": "Maggi",
+            "ar_brand_name": "مرقة ماجي",
+            "url": "https://en.wikipedia.org/wiki/Osem_(company)"
         },
         {
             "image": "./images/mars.png",
             "en_brand_name": "Mars chocolate",
-            "ar_brand_name": "شوكولا مارس"
+            "ar_brand_name": "شوكولا مارس",
+            "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
         },
         {
             "image": "./images/kit_kat.png",
             "en_brand_name": "KitKat chocolate",
-            "ar_brand_name": "شوكولا كيت كات"
+            "ar_brand_name": "شوكولا كيت كات",
+            "url": "https://en.wikipedia.org/wiki/Osem_(company)"
         },
         {
             "image": "./images/lays.png",
             "en_brand_name": "Lay's Potato",
-            "ar_brand_name": "بطاطا ليز"
+            "ar_brand_name": "بطاطا ليز",
+            "url": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         },
         {
             "image": "./images/cad_bury.png",
             "en_brand_name": "CadBury Chocolate",
-            "ar_brand_name": "شوكولا كادبوري"
+            "ar_brand_name": "شوكولا كادبوري",
+            "url": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment"
+        },
+        {
+            "image": "./images/oreo.png",
+            "en_brand_name": "Oreo",
+            "ar_brand_name": "شوكولا أوريو",
+            "url": "https://ir.mondelezinternational.com/news-releases/news-release-details/mondelez-international-snackfutures-makes-seed-investment"
         },
         {
             "image": "./images/twix.png",
             "en_brand_name": "Twix",
-            "ar_brand_name": "بسكويت تويكس"
+            "ar_brand_name": "بسكويت تويكس",
+            "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
         },
         {
             "image": "./images/m&ms.png",
             "en_brand_name": "m&ms",
-            "ar_brand_name": "ام اند امز"
+            "ar_brand_name": "ام اند امز",
+            "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
         },
         {
             "image": "./images/doritos.png",
             "en_brand_name": "Doritos",
-            "ar_brand_name": "بطاطا دوريتو"
+            "ar_brand_name": "بطاطا دوريتو",
+            "url": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         },
         {
             "image": "./images/coca_cola.png",
             "en_brand_name": "Coca Cola",
-            "ar_brand_name": "كوكا كولا"
+            "ar_brand_name": "كوكا كولا",
+            "url": "https://www.foa.org.uk/campaign/boycottcocacola"
         },
         {
             "image": "./images/pepsi.png",
             "en_brand_name": "Pepsi",
-            "ar_brand_name": "بيبسي كولا"
+            "ar_brand_name": "بيبسي كولا",
+            "url": "https://www.bloomberg.com/view/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         },
         {
             "image": "./images/sprite.png",
             "en_brand_name": "Sprite",
-            "ar_brand_name": "سبرايت"
+            "ar_brand_name": "سبرايت",
+            "url": "https://www.foa.org.uk/campaign/boycottcocacola"
         }
     ]
 }

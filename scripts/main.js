@@ -29,6 +29,9 @@ function displayBoycottList(items) {
             <img src="${item["image"]}" width="100px" height="100px">
             <p>${item["en_brand_name"]}</p>
             <p>${item["ar_brand_name"]}</p>
+            <a href="${item["url"]}">
+                <button class="btn">الدليل | Proof</button>
+            </a>
         </div>
     `).join('');
 
