@@ -8,4 +8,12 @@
 .flex-item {
     flex: 1 1 200px; /* flex-grow, flex-shrink, flex-basis */
     min-width: 0; /* Important for text truncation */
+    text-align: center;
+    border: 1px solid rgba(169, 169, 169, 0.2); /* Light gray with transparency */
+    transition: all 0.3s ease;
+}
+
+.flex-item:hover {
+    border: 1px solid grey; /* Red border on hover (symbolizing boycott) */
+    box-shadow: 0 0 8px rgba(255, 0, 0, 0.2); /* Glow effect */
 }

@@ -1,0 +1,79 @@
+{
+    "boycottList": [
+        {
+            "image": "./images/lipton_tea.png",
+            "en_brand_name": "Lipton",
+            "ar_brand_name": "شاي ليبتون"
+        },
+        {
+            "image": "./images/snickers.jpg",
+            "en_brand_name": "Snickers",
+            "ar_brand_name": "شوكولا سنيكرز"
+        },
+        {
+            "image": "./images/quaker.jpg",
+            "en_brand_name": "َQuaker",
+            "ar_brand_name": "شوكولا و منتجات كويكر"
+        },
+        {
+            "image": "./images/nescafe.png",
+            "en_brand_name": "Nescafe",
+            "ar_brand_name": "قهوة نسكافية بأشكالها المختلفة"
+        },
+        {
+            "image": "./images/knor.png",
+            "en_brand_name": "Knorr",
+            "ar_brand_name": "شوربة و معكرونة كنور"
+        },
+        {
+            "image": "./images/mars.png",
+            "en_brand_name": "Mars chocolate",
+            "ar_brand_name": "شوكولا مارس"
+        },
+        {
+            "image": "./images/kit_kat.png",
+            "en_brand_name": "KitKat chocolate",
+            "ar_brand_name": "شوكولا كيت كات"
+        },
+        {
+            "image": "./images/lays.png",
+            "en_brand_name": "Lay's Potato",
+            "ar_brand_name": "بطاطا ليز"
+        },
+        {
+            "image": "./images/cad_bury.png",
+            "en_brand_name": "CadBury Chocolate",
+            "ar_brand_name": "شوكولا كادبوري"
+        },
+        {
+            "image": "./images/twix.png",
+            "en_brand_name": "Twix",
+            "ar_brand_name": "بسكويت تويكس"
+        },
+        {
+            "image": "./images/m&ms.png",
+            "en_brand_name": "m&ms",
+            "ar_brand_name": "ام اند امز"
+        },
+        {
+            "image": "./images/doritos.png",
+            "en_brand_name": "Doritos",
+            "ar_brand_name": "بطاطا دوريتو"
+        },
+        {
+            "image": "./images/coca_cola.png",
+            "en_brand_name": "Coca Cola",
+            "ar_brand_name": "كوكا كولا"
+        },
+        {
+            "image": "./images/pepsi.png",
+            "en_brand_name": "Pepsi",
+            "ar_brand_name": "بيبسي كولا"
+        },
+        {
+            "image": "./images/sprite.png",
+            "en_brand_name": "Sprite",
+            "ar_brand_name": "سبرايت"
+        }
+    ]
+}
