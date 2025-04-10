@@ -17,3 +17,12 @@
     border: 1px solid grey; /* Red border on hover (symbolizing boycott) */
     box-shadow: 0 0 8px rgba(255, 0, 0, 0.2); /* Glow effect */
 }
+
+.right-align {
+    text-align: right;
+}
+
+.imp {
+    color: red;
+    background-color: white;
+}
