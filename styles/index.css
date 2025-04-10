@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.flex-item {
+    flex: 1 1 200px; /* flex-grow, flex-shrink, flex-basis */
+    min-width: 0; /* Important for text truncation */
+}
