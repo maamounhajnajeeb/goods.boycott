@@ -30,3 +30,12 @@
 .btn:hover {
     background-color: #db9e30;
 }
+
+.landing-img {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}

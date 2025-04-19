@@ -101,6 +101,12 @@
             "en_brand_name": "Sprite",
             "ar_brand_name": "سبرايت",
             "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+        },
+        {
+            "image": "./images/7up.png",
+            "en_brand_name": "7Up",
+            "ar_brand_name": "سيفن أب",
+            "url": "https://www.bloomberg.com/opinion/articles/2018-08-22/pepsico-s-sodastream-purchase-is-sweet-news-for-israelis?leadSource=uverify%20wall"
         }
     ]
 }
